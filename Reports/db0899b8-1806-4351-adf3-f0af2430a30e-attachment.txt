@@ -1,0 +1,4 @@
+526041
+{"status":"true","msg":"Add  data success"}
+{"status":"true","msg":"Add  data success"}
+{"status":"true","data":{"first_name":"Testing","middle_name":"K","last_name":"World","date_of_birth":"09/09/2000","TechnicalDetails":[{"id":21412,"language":["Java","Python"],"yearexp":"2","lastused":"2019","st_id":"526041"}],"Address":[{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"526041"},{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"526041"}]}}
